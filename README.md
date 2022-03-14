@@ -1,2 +1,3 @@
 # GamesProjects
-Repository made for personal games.
+
+This repository contains all executables for all games developed by me.
